@@ -108,8 +108,6 @@ $ ./run
 ```
 - Demo成果
 
-![](https://github.com/doudou030/Access_Control_System_with_pi/blob/main/img/Demo1.jpg?raw=true)
-
 ![](https://github.com/doudou030/Access_Control_System_with_pi/blob/main/img/Demo2.jpg?raw=true)
 
 ## Job Assignment 工作分配
